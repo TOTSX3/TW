@@ -1,2 +1,0 @@
-# Suska
-Main Project
